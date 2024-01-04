@@ -18,16 +18,15 @@ I graduated from INSA Toulouse in Applied Mathematics (numerical modelling and i
 
 ### Projects and Work
 
-- *Foundation Models and Transformer-based architectures for Climate and weather understanding *<br>
+- Foundation Models and Transformer-based architectures for Climate and weather understanding <br>
 UN-WFP internship. We focused on image-to-image models like [ClimaX](https://github.com/WFP-VAM/ClimaX) and Time series models like [PatchTST](https://github.com/WFP-VAM/PatchTST)
 
-- *Variational Image segmentation *<br>[code](https://github.com/Joywessim/ProjetsImage2022-2023/tree/abb684869f9f5180a8e743fea4c95ce58f6e4919/Image%20segmentation) 
+- Variational Image segmentation <br>[code](https://github.com/Joywessim/ProjetsImage2022-2023/tree/abb684869f9f5180a8e743fea4c95ce58f6e4919/Image%20segmentation) 
 
-- *MRI motion artefacts simualtion and correction *<br>
+- MRI motion artefacts simualtion and correction <br>
 CEA-Saclay internship. [code](https://github.com/Joywessim/MRIMotionCorrection)
 
-
-- *Inverse problem for MRI reconstruction*<br>  [code](https://github.com/Joywessim/Problemes-inverses-et-reconstruction-d-images-IRM)
+- Inverse problem for MRI reconstruction<br>  [code](https://github.com/Joywessim/Problemes-inverses-et-reconstruction-d-images-IRM)
 
 
 
